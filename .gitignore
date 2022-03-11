@@ -2,3 +2,7 @@ node_modules
 yarn-error.log
 dist
 env.txt
+.env
+package-lock.json
+yarn.lock
+yarn.lock
